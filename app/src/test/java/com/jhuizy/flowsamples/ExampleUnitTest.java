@@ -1,4 +1,4 @@
-package com.jhuizy.flow;
+package com.jhuizy.flowsamples;
 
 import org.junit.Test;
 

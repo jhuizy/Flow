@@ -1,4 +1,4 @@
-package com.jhuizy.flow
+package com.jhuizy.flowsamples
 
 import android.util.Log
 import io.reactivex.BackpressureStrategy
