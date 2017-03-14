@@ -6,7 +6,7 @@ import io.reactivex.Observable
 import io.reactivex.subjects.PublishSubject
 import io.reactivex.subjects.Subject
 
-object Redux {
+object Flow {
 
     interface Dispatcher<A> {
         fun dispatch(action: A)
